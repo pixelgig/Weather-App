@@ -37,6 +37,6 @@ Let's make the Weather App even better together.
 ## Connect with Me
 
 - GitHub: [pixelgig](https://github.com/pixelgig)
-- Email: [pixelgig@example.com](mailto:pixelgig@example.com)
+- Email: [Gauravchaudhary1@outlook.in](mailto:Gauravchaudhary1@outlook.in)
 
 Enjoy using the Weather App! 🌈
