@@ -4,6 +4,36 @@
     font-family: 'Poppins', sans-serif;
     box-sizing: border-box;
 }
+/* Style for desktop */
+.card {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Style for mobile */
+@media (max-width: 600px) {
+    .card {
+        padding: 10px;
+    }
+    .search {
+        display: flex;
+        flex-direction: column;
+    }
+    .search input {
+        margin-bottom: 10px;
+    }
+    .details {
+        display: flex;
+        flex-direction: column;
+    }
+    .column {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+}
+
 body{
     background: #000;
 }
