@@ -1,8 +1,8 @@
-# Weather App
+# Weather App ![Weather App Icon]((https://raw.githubusercontent.com/pixelgig/Weather-App/cc34513f3e356ef1ef68050fa0049c84bcc35dec/img/cloudy.png))
 
 Welcome to the **Weather App**! 🌤️ Your ultimate destination for checking the current weather conditions worldwide. Whether you're planning a picnic, scheduling a hike, or just curious about the weather, this app has got your back!
 
-![Weather App Icon](icons/weather-icon.png)
+
 
 ## Features
 
@@ -24,7 +24,7 @@ No need to worry about API keys! The Weather App is ready to use with my pre-con
 - HTML
 - CSS
 - JavaScript
-- ![OpenWeather API Icon](icons/openweather-icon.png) [OpenWeather API](https://openweathermap.org/api)
+- [OpenWeather API](https://openweathermap.org/api) ![OpenWeather API Icon](![Weather App Icon](https://raw.githubusercontent.com/pixelgig/Weather-App/cc34513f3e356ef1ef68050fa0049c84bcc35dec/img/logo_white_cropped.png))
 
 ## How to Contribute
 
